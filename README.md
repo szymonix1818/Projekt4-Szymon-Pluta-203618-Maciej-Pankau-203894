@@ -69,7 +69,8 @@ Upewnij się, że w pliku `.vcxproj` masz dołączone odpowiednie biblioteki:
 - **Przyciski radiowe**: szybkie ustawienia predefiniowanych kombinacji (które były w treści zadania)
 ## Zrzut ekranu
 
-![alt text](image.png)
+![alt text](![image](https://github.com/user-attachments/assets/d67d5c85-39a4-4f43-b337-50bd098fec11)
+)
 ## Autorzy
 
 - **Szymon Pluta** – 203618  
